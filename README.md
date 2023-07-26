@@ -60,7 +60,7 @@ python main.py --source "your custom video.mp4" --device 0
 python main.py --source 0 
 
 #For External Camera
-python pose-estimate.py --source 1 
+python main.py --source 1 
 ```
 
 
