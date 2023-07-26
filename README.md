@@ -1,15 +1,14 @@
 # yolov7-pose-estimation
 
-### New Features
+### Features
 
 - Code can run on Both (CPU & GPU)
 - Video/WebCam/External Camera/IP Stream Supported
 
 
 ### Steps to run Code
-
-git clone https://github.com/RizwanMunawar/yolov7-pose-estimation.git
-
+originial repo-- git clone https://github.com/RizwanMunawar/yolov7-pose-estimation.git
+my repo with oop-- git clone https://github.com/Fatih-Haslak/Yolov7-pose-estimation-oop-based
 - Goto the cloned folder.
 ```
 cd yolov7-pose-estimation
