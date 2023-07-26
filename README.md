@@ -9,7 +9,7 @@
 ### Steps to run Code
 original repo--> git clone https://github.com/RizwanMunawar/yolov7-pose-estimation.git
 
-my repo with oop--> git clone https://github.com/Fatih-Haslak/Yolov7-pose-estimation-oop-based
+my repo with oop--> git clone https://github.com/Fatih-Haslak/Yolov7-pose-estimation-oop-based.git (use this for oop)
 - Goto the cloned folder.
 ```
 cd yolov7-pose-estimation
