@@ -7,9 +7,9 @@
 
 
 ### Steps to run Code
-originial repo-- git clone https://github.com/RizwanMunawar/yolov7-pose-estimation.git
+original repo--> git clone https://github.com/RizwanMunawar/yolov7-pose-estimation.git
 
-my repo with oop-- git clone https://github.com/Fatih-Haslak/Yolov7-pose-estimation-oop-based
+my repo with oop--> git clone https://github.com/Fatih-Haslak/Yolov7-pose-estimation-oop-based
 - Goto the cloned folder.
 ```
 cd yolov7-pose-estimation
@@ -87,7 +87,7 @@ python main.py --source 1
 - https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/
 - https://github.com/ultralytics/yolov5
 
-#### My Medium Articles
+#### Rizwan Munawar Articles
 - https://medium.com/augmented-startups/yolov7-training-on-custom-data-b86d23e6623
 - https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c
 - https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1
